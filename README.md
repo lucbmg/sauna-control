@@ -29,4 +29,4 @@ Contrôleur de sauna sur Arduino Mega.
 ## Sécurité
 - Tout est éteint au démarrage.
 - Le chauffage coupe automatiquement à la fin de la minuterie.
-- Le 240 V passe uniquement par les SSR dans une boîte électrique fermée.
+- Le 120 V passe uniquement par les SSR dans une boîte électrique fermée.
